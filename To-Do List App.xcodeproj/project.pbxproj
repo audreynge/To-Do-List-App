@@ -39,7 +39,6 @@
 		05F9D4DF2A8BC6B4001DE97C = {
 			isa = PBXGroup;
 			children = (
-				05F9D4F92A8BC7D2001DE97C /* ToDoItem.swift */,
 				05F9D4EA2A8BC6B5001DE97C /* To-Do List App */,
 				05F9D4E92A8BC6B5001DE97C /* Products */,
 			);
@@ -56,6 +55,7 @@
 		05F9D4EA2A8BC6B5001DE97C /* To-Do List App */ = {
 			isa = PBXGroup;
 			children = (
+				05F9D4F92A8BC7D2001DE97C /* ToDoItem.swift */,
 				05F9D4EB2A8BC6B5001DE97C /* To_Do_List_AppApp.swift */,
 				05F9D4ED2A8BC6B5001DE97C /* ContentView.swift */,
 				05165A0E2A8BCFAB001F3379 /* NewToDoView.swift */,
